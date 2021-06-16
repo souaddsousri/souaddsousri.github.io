@@ -1,11 +1,11 @@
 
 {
-    "GPOnlyTraffic" : "false",
-    "admob_only" : "false",
+    "GPOnlyTraffic" : "true",
+    "admob_only" : "true",
     "admob_banner_enable" : "false",
     "admob_banner_intro_last_rect_enable" : "false",
     "admob_banner_rect_enable" : "false",
-    "admob_inter_enable" : "false",
+    "admob_inter_enable" : "true",
     "ad_unit_inter": "ca-app-pub-3187927777485739/9296438659",
     "ad_unit_banner": "",
     "ad_unit_banner_rect": "",
